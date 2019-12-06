@@ -403,10 +403,7 @@ span.white {
 
 /*FRONT PAGE*********************/
 .front-page-blob {
-    background-image: url(./imgs/legoblob.png);
-    background-repeat: no-repeat;
-    background-size: 80%;
-    z-index: 1000;
+    max-width: 100%;
 }
 
 
